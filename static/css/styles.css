@@ -1,0 +1,52 @@
+body {
+    background-color: #56abf5;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: #333333;
+    padding: 15px;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    color: #ffffff !important;
+}
+
+.navbar-brand:hover {
+    color: #cccccc !important;
+}
+
+.container {
+    margin-top: 50px;
+    
+}
+
+.card {
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    color: #333333;
+   
+}
+
+.form-control {
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
