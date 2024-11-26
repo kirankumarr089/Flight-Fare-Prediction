@@ -10,7 +10,7 @@ app = Flask(__name__)
 model = pickle.load(open("flight_rf.pkl", "rb"))
 
 # config = {
-#   'apiKey': "AIzaSyCo783lem5bYK_vzOjBHeXRVYFvKWIyaS0",
+#   'apiKey': "",  API key here
 #   'authDomain': "flightpriceprediction-d1c0d.firebaseapp.com",
 #   'databaseURL': "https://flightpriceprediction-d1c0d-default-rtdb.firebaseio.com",
 #   'projectId': "flightpriceprediction-d1c0d",
